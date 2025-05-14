@@ -1,0 +1,25 @@
+body {
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+.text-neon {
+  color: #39ff14;
+  text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14, 0 0 20px #39ff14;
+}
+
+.hero {
+  background-image: url('https://i.imgur.com/JQZbxYQ.gif');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-shadow: 2px 2px 10px #000;
+}
+
+.border-neon {
+  border: 2px solid #39ff14;
+  box-shadow: 0 0 10px #39ff14;
+}
+
+.card-title {
+  font-weight: bold;
+}
