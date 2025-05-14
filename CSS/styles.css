@@ -23,3 +23,19 @@ body {
 .card-title {
   font-weight: bold;
 }
+
+.custom-brand {
+  font-size: 1.8rem;
+  color: #fff200 !important; /* amarillo neón */
+  text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+.img-hover {
+  transition: transform 0.3s ease;
+}
+
+.img-hover:hover {
+  transform: scale(1.2);
+}
+
